@@ -81,4 +81,4 @@ Create your migrations.
   this role or returns a string 'no actor has been hired for this role'.
 - `Role.understudy()` returns the second instance of the audition that was hired
   for this role or returns a string 'no actor has been hired for understudy for
-  this role'.
+  this role'...
